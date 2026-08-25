@@ -1,12 +1,14 @@
 # Cybersecurity Journey
 
-This repository contains my notes, exercises and projects from learning cybersecurity.
+To repozytorium zawiera moje notatki, ćwiczenia i projekty związane z nauką cyberbezpieczeństwa.
 
-I am currently building my fundamentals and working towards my first job in cybersecurity, with a focus on SOC and security operations.
+Obecnie skupiam się na zbudowaniu solidnych podstaw oraz rozwijaniu praktycznych umiejętności, które pozwolą mi w przyszłości rozpocząć pracę w branży cybersecurity, szczególnie w obszarze Security Operations (SOC).
 
 ## Current focus
 
-I am currently working through the Pre Security path on TryHackMe.
+Aktualnie realizuję ścieżkę Pre Security na TryHackMe.
+
+W pierwszym module zapoznałem się z podstawowymi zagadnieniami cyberbezpieczeństwa, w tym z Offensive Security, Defensive Security oraz różnymi specjalizacjami występującymi w branży.
 
 ## Learning path
 
@@ -46,21 +48,21 @@ I am currently working through the Pre Security path on TryHackMe.
 
 ## Projects
 
-Practical labs and projects will be added as I progress.
+Praktyczne laby i projekty będą dodawane wraz z postępem w nauce.
 
 ## Repository structure
 
 01-pre-security/
-├── introduction-to-cyber-security.md
-├── computer-fundamentals.md
-├── operating-systems-basics.md
-├── software-basics.md
-├── network-fundamentals.md
-├── how-the-web-works.md
-└── attacks-and-defenses.md
+├── 01-introduction-to-cyber-security.md
+├── 02-computer-fundamentals.md
+├── 03-operating-systems-basics.md
+├── 04-software-basics.md
+├── 05-network-fundamentals.md
+├── 06-how-the-web-works.md
+└── 07-attacks-and-defenses.md
 
-The repository structure follows the learning path on TryHackMe. New sections will be added as I move forward.
+Struktura repozytorium odpowiada kolejności nauki na TryHackMe. Kolejne sekcje będą dodawane wraz z przechodzeniem następnych etapów.
 
 ## Goal
 
-Build practical cybersecurity skills and become a Junior SOC Analyst.
+Zdobyć praktyczne umiejętności z zakresu cyberbezpieczeństwa i rozpocząć pracę jako Junior SOC Analyst.
