@@ -2,67 +2,55 @@
 
 To repozytorium zawiera moje notatki, ćwiczenia i projekty związane z nauką cyberbezpieczeństwa.
 
-Obecnie skupiam się na zbudowaniu solidnych podstaw oraz rozwijaniu praktycznych umiejętności, które pozwolą mi w przyszłości rozpocząć pracę w branży cybersecurity, szczególnie w obszarze Security Operations (SOC).
+Obecnie skupiam się na zbudowaniu solidnych podstaw oraz rozwijaniu praktycznych umiejętności. W późniejszym etapie chcę wybrać obszar cybersecurity, w którym będę chciał się specjalizować.
 
 ## Current focus
 
-Aktualnie realizuję ścieżkę Pre Security na TryHackMe.
-
-W pierwszym module zapoznałem się z podstawowymi zagadnieniami cyberbezpieczeństwa, w tym z Offensive Security, Defensive Security oraz różnymi specjalizacjami występującymi w branży.
+Obecnie skupiam się na podstawach cyberbezpieczeństwa i realizacji kolejnych etapów przygotowanej ścieżki nauki.
 
 ## Learning path
 
-* [ ] Pre Security
-* [ ] Cyber Security 101
-* [ ] SOC Level 1
-* [ ] Home Lab
-* [ ] CompTIA Security+
-* [ ] Microsoft Sentinel
-* [ ] KQL
-* [ ] Microsoft SC-200
+- [ ] Google Cybersecurity Certificate
+- [ ] GRC fundamentals
+- [ ] TryHackMe Security Analyst Level 1
+- [ ] CompTIA Security+
+- [ ] Portfolio and practical projects
+- [ ] First cybersecurity job
+- [ ] Choose a specialization
 
 ## Skills
 
 ### Currently learning
 
-* Computer fundamentals
-* Operating systems
-* Software basics
-* Networking
-* Web fundamentals
-* Cybersecurity fundamentals
-* Common attacks and defenses
+- Cybersecurity fundamentals
+- Networking
+- Operating systems
+- Linux
+- Windows
+- Web fundamentals
+- Security concepts
+- Common attacks and defenses
 
-### Later
+### Future
 
-* Linux
-* Windows
-* PowerShell
-* Active Directory
-* Wireshark
-* SIEM
-* Incident Response
-* Threat Intelligence
-* MITRE ATT&CK
-* Threat Hunting
+- Security Operations
+- Incident Response
+- Digital Forensics
+- Threat Intelligence
+- Threat Hunting
+- Cloud Security
+- Offensive Security
+- GRC
+- SIEM
+- PowerShell
+- Python
+- Active Directory
+- Wireshark
 
 ## Projects
 
-Praktyczne laby i projekty będą dodawane wraz z postępem w nauce.
-
-## Repository structure
-
-01-pre-security/
-├── 01-introduction-to-cyber-security.md
-├── 02-computer-fundamentals.md
-├── 03-operating-systems-basics.md
-├── 04-software-basics.md
-├── 05-network-fundamentals.md
-├── 06-how-the-web-works.md
-└── 07-attacks-and-defenses.md
-
-Struktura repozytorium odpowiada kolejności nauki na TryHackMe. Kolejne sekcje będą dodawane wraz z przechodzeniem następnych etapów.
+Praktyczne ćwiczenia, laby i projekty będą dodawane wraz z postępem w nauce.
 
 ## Goal
 
-Zdobyć praktyczne umiejętności z zakresu cyberbezpieczeństwa i rozpocząć pracę jako Junior SOC Analyst.
+Zdobyć solidne podstawy i praktyczne umiejętności z zakresu cyberbezpieczeństwa, a następnie znaleźć obszar, w którym będę chciał się specjalizować.
